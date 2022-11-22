@@ -38,7 +38,7 @@ $dataMhs = query("SELECT * FROM mahasiswa");
         </div>
 
         <table class="table mt-2 table-light">
-            <tr class="table-secondary">
+            <tr class="table-primary">
                 <th scope="col">No.</th>
                 <th scope="col">NIM</th>
                 <th scope="col">Nama</th>

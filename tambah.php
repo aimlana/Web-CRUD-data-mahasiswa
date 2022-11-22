@@ -86,7 +86,7 @@ if (isset($_POST['submit'])) {
                     <option value="Keperawatan">Keperawatan</option>
                 </select>
             </div>
-            <button class="btn w-100 mt-5" type="submit" name="submit">Tambah data</button>
+            <button class="btn w-100 mt-5 mb-5" type="submit" name="submit">Tambah data</button>
         </form>
     </div>
 </body>
